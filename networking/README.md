@@ -21,7 +21,7 @@ simplified DHCP session
 ![Image of DHCP session](https://raw.githubusercontent.com/tabascoeye/TikZ-diagrams/master/networking/DHCP_simplified_eng.png)
 
 
-The IP protocol header
+The IPv4 protocol header
 ----------------------
 
 ![Image of the IP header](https://raw.githubusercontent.com/tabascoeye/TikZ-diagrams/master/networking/IP-Header_eng.png)
