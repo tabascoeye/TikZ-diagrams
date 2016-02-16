@@ -24,7 +24,13 @@ simplified DHCP session
 The IPv4 protocol header
 ----------------------
 
-![Image of the IP header](https://raw.githubusercontent.com/tabascoeye/TikZ-diagrams/master/networking/IP-Header_eng.png)
+![Image of the IPv4 header](https://raw.githubusercontent.com/tabascoeye/TikZ-diagrams/master/networking/IP-Header_eng.png)
+
+
+The IPv6 protocol header
+----------------------
+
+![Image of the IPv6 header](https://raw.githubusercontent.com/tabascoeye/TikZ-diagrams/master/networking/IPv6-Header_eng.png)
 
 
 The TCP protocol header
