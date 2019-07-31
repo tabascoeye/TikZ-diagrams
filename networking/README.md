@@ -33,6 +33,12 @@ The IPv6 protocol header
 ![Image of the IPv6 header](https://raw.githubusercontent.com/tabascoeye/TikZ-diagrams/master/networking/IPv6-Header_eng.png)
 
 
+The ICMPv6 protocol header
+----------------------
+
+![Image of the ICMPv6 header](https://raw.githubusercontent.com/tabascoeye/TikZ-diagrams/master/networking/ICMPv6-Header_eng.png)
+
+
 The TCP protocol header
 -----------------------
 
